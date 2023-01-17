@@ -1,0 +1,38 @@
+footer {
+  background: #0f0f0f;
+}
+.fot-box {
+  display: flex;
+  justify-content: center;
+}
+.foh h1 {
+  margin-top: 70px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.foh p {
+  margin: 40px 900px 214px;
+  width: 120px;
+  height: 0px;
+  left: 900px;
+  top: 3701px;
+  border: 1px solid #ffffff;
+}
+.imf ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.imf img {
+  margin: -100px 0px 100px;
+  width: 255px;
+  height: 94px;
+  left: 1260px;
+  top: 3741px;
+}

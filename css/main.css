@@ -1,0 +1,276 @@
+@import url(./header.css);
+@import url(./common.css);
+@import url(./footer.css);
+main {
+  background-color: black;
+}
+.cont {
+  background-image: url(../images/odm\ 1.png);
+  max-width: 1920px;
+  height: 810px;
+}
+.box-1 {
+  width: 320px;
+  height: 320px;
+  border: 3px solid#ffffff;
+}
+.bar h1 {
+  text-decoration: underline;
+  padding-top: 93px;
+  font-family: "Post No Bills Jaffna";
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 64px;
+  line-height: 96px;
+  text-align: center;
+  color: #ffffff;
+}
+.bar3 p {
+    margin: 80px 0px 154px -220px;
+  width: 740px;
+  height: 96px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.bar h6 {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.box {
+  margin-left: 800px;
+  padding-top: 160px;
+}
+
+/* section new */
+
+.contan {
+  display: flex;
+}
+
+.son h1 {
+  margin: 93px 306.46px 50px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.son p {
+  margin: 0 424.62px 50px;
+  width: 110.77px;
+  height: 0px;
+  left: 424.62px;
+  top: 1116px;
+  border: 1px solid #ffffff;
+}
+
+.soat ul {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.soat li {
+  display: flex;
+  align-items: center;
+  width: 240px;
+  height: 325px;
+  background: #191b1c;
+}
+.soat img {
+  width: 198.46px;
+  height: 214px;
+  left: 95.08px;
+  top: 1221px;
+}
+.yoz ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.yoz li {
+  margin: 25px 0px 100px;
+  width: 240px;
+}
+
+.yoz p {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #ffffff;
+}
+.man {
+  width: 960px;
+  height: 730px;
+  background-image: url(../images/man.png);
+}
+.sar {
+  display: flex;
+  justify-content: center;
+}
+
+.hash h1 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  margin-top: 484px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.hash p {
+  margin: 30px 416px 40px;
+  width: 130.91px;
+  height: 0px;
+  border: 1px solid #ffffff;
+}
+.hash button {
+  margin-left: 420px;
+  padding: 10px 20px;
+  border: 2px solid #ffffff;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: transparent;
+}
+
+/* section */
+.contan2 {
+  display: flex;
+}
+.imt {
+  margin-top: -8px;
+}
+
+.txt {
+  display: flex;
+}
+.collec h1 {
+  margin-top: 100px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.txt .ps {
+  margin: 40px 460px 40px 460px;
+  width: 120px;
+  height: 0px;
+  left: 1340px;
+  top: 1843px;
+  border: 1px solid #ffffff;
+}
+.txt p {
+  margin: 0px 205px 73px 284px;
+  width: 471px;
+  height: 173px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  text-align: center;
+  color: #ffffff;
+}
+.txt button {
+  margin: 10px 313px 100px 380px;
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+/* section */
+.contan4 {
+  width: 1110px;
+  margin: 0 auto;
+}
+.card1 h1 {
+  margin-top: 120px;
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.card1 p {
+  margin: 40px 480px 81px;
+  width: 120px;
+  height: 0px;
+  left: 900px;
+  top: 2472px;
+  border: 1px solid #ffffff;
+}
+.card2 ul {
+  display: flex;
+  justify-content: space-between;
+}
+.card2 li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 260px;
+  height: 325px;
+  background-color: #191b1c;
+}
+.card2 img {
+  width: 215px;
+  height: 214px;
+}
+.card3 ul {
+  display: flex;
+  justify-content: space-between;
+}
+.card3 p {
+    margin: 20px 0px 7px;
+    margin-bottom: 10px;
+  display: flex;
+  color: #ffffff;
+  justify-content: space-between;
+  width: 260px;
+}
